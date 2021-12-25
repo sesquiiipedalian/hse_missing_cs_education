@@ -1,7 +1,6 @@
 import hashlib
 
-# Укажите ваше ФИО.
-name = 'Ivan Ivanov'
+name = 'Кемал Азамат'
 
 reviewers = [
     'lodthe',
